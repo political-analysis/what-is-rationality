@@ -86,3 +86,5 @@ However, knowing all the techniques of rationality does not give one the practic
 
     Practice not-doing,
     and everything will fall into place.
+
+Given the tao of rationality, all of the specific techniques of rationality can be rediscovered. The tao of rationality is likely to appear to you if you reflect on the specific techniques of rationality. Our grasp of the tao is the outcome of our accumulated experience of reasoning, and is essentially a historical, evolutionary phenomenon.
