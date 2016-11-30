@@ -62,7 +62,9 @@ The Tao Te Ching purports to contain ancient wisdom applicable to every kind of 
 
 Here's what that passage brings to mind for me.
 
-Human ability to reason outruns our ability to understand our processes of reasoning on a second-order level. Reasoning is a capability of our minds. Our minds are very complex and our understanding of them is very rudimentary. Our processes of reasoning are the outcome of a process of biological and social evolution, consisting of the Darwinian evolution of our brains and the transmission and evolution of intellectual DNA forward through history.
+Human ability to reason outruns our ability to understand our processes of reasoning on a second-order level. Reasoning is a capability of our minds. Our minds are very complex and our understanding of them is very rudimentary.
+
+Our processes of reasoning are the outcome of a process of biological and social evolution, consisting of the Darwinian evolution of our brains and the transmission and evolution of intellectual DNA forward through history.
 
 Our rules for reasoning are essentially encoded in our languages. Our languages are complex organs with many subdivisions such as mathematical language and technical jargon of various fields, which are outposts dotted around a complex, generalized "everyday" language.
 
