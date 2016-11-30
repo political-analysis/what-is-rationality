@@ -34,11 +34,13 @@ I am still developing my conception of political rationality. Politics is of cou
 
 This blog series is not primarily about my conception of political rationality. It's about my conception of rationality in general. However, analyzing generalities without getting into specifics is a crime against rationality, so political rationality is one of the areas I wish to discuss.
 
-# The Tao of Rationality
+# The Tao of rationality
 
 Rationality is not a natural state of the human mind. It's a state which is achieved through hard and determined effort towards the right kinds of goals. It's a state which is never perfectly achieved. One is never finished in the development of one's rationality. It's a life-long learning experience, a path not a destination.
 
-The heart of rationality is the tao of rationality. The tao of rationality is a mystery, a placeholder for our lack of comprehension of our own ability to reason. Where our rational understanding of our ability to reason runs out, we can only speak impressionistically.
+The heart of rationality is the Tao of rationality. The Tao of rationality is a mystery, a placeholder for our lack of ultimate comprehension of our own ability to reason.
+
+The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. I'll give you a passage, and then I'll tell you what it brings to mind for me.
 
     The tao that can be told
     is not the eternal Tao
@@ -58,7 +60,7 @@ The heart of rationality is the tao of rationality. The tao of rationality is a 
 
 [N.B. This passage is from chapter 1 of [Stephen Mitchell's translation of the Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html), for which I claim fair use. Consider buying it; it's a great book.]
 
-The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. Here's what this passage brings to mind for me.
+Here's what that passage brings to mind for me.
 
 Human ability to reason outruns our ability to understand our processes of reasoning on a second-order level. Reasoning is a capability of our minds. Our minds are very complex and our understanding of them is very rudimentary. Our processes of reasoning are the outcome of a process of biological and social evolution, consisting of the Darwinian evolution of our brains and the transmission and evolution of intellectual DNA forward through history.
 
