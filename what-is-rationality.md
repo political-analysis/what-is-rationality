@@ -36,7 +36,7 @@ This blog series is not primarily about my conception of political rationality. 
 
 # The Tao of Rationality
 
-Rationality is not a natural state of the human mind. It's a state which is achieved through hard and determined effort, which needs to be pointed in the right directions. It's a state which is never perfectly achieved. One is never finished in the development of one's rationality. It's a life-long learning experience, a path not a destination.
+Rationality is not a natural state of the human mind. It's a state which is achieved through hard and determined effort towards the right kinds of goals. It's a state which is never perfectly achieved. One is never finished in the development of one's rationality. It's a life-long learning experience, a path not a destination.
 
 
 
