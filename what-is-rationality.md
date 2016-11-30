@@ -111,4 +111,3 @@ The heart of rationality is a groundedness in reality and a willingness to be sw
 
     [ch. 11]
 
-Given the tao of rationality, all of the specific techniques of rationality can be rediscovered. The tao of rationality is a quality developed in the practice of rationality, employing the best techniques we understand. Our grasp of the tao is the outcome of our accumulated experience of reasoning, and is essentially a historical, evolutionary phenomenon.
