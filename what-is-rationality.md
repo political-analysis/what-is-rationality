@@ -56,9 +56,9 @@ The heart of rationality is the tao of rationality. This is a way of being and m
     arise from the same source.
     This source is called darkness.
 
-N.B. This passage is from chapter 1 of [Stephen Mitchell's translation of the Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html), for which I claim fair use. Consider buying it; it's a great book.
+[N.B. This passage is from chapter 1 of [Stephen Mitchell's translation of the Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html), for which I claim fair use. Consider buying it; it's a great book.]
 
-The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. Let's interpret this passage in a way that tells us some things about rationality.
+The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. Here's what this passage brings to mind for me.
 
 Human ability to reason outruns our ability to understand our processes of reasoning on a second-order level. Reasoning is a capability of our minds. Our minds are very complex and our understanding of them is very rudimentary. Our processes of reasoning are the outcome of a process of biological and social evolution, consisting of the Darwinian evolution of our brains and the transmission and evolution of intellectual DNA forward through history.
 
