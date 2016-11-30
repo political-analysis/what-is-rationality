@@ -42,7 +42,7 @@ Rationality is not a natural state of the human mind. It's a state which is achi
 
 
 
-To me, the heart of rationality is the tao of rationality. This is a way of being and moving in the world of ideas which is the essence of rationality. It is at once an inscrutable quality, and the accumulation of myriad little details and traditions gathered into the practice of reason over the life of humanity.
+The heart of rationality is the tao of rationality. This is a way of being and moving in the world of ideas which is the essence of rationality. It is at once an inscrutable quality, and the accumulation of myriad little details and traditions gathered into the practice of reason over the life of humanity.
 
     The tao that can be told
     is not the eternal Tao
@@ -62,15 +62,27 @@ To me, the heart of rationality is the tao of rationality. This is a way of bein
 
 N.B. This passage is from chapter 1 of [Stephen Mitchell's translation of the Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html), for which I claim fair use. Consider buying it; it's a great book.
 
+The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. Let's interpret this passage in a way that tells us some things about rationality.
 
+Human ability to reason outruns our ability to understand our processes of reasoning on a second-order level. Reasoning is a capability of our minds. Our minds are very complex and our understanding of them is very rudimentary. Our processes of reasoning are the outcome of a process of biological and social evolution, consisting of the Darwinian evolution of our brains and the transmission and evolution of intellectual DNA forward through history.
 
+Our rules for reasoning are essentially encoded in our languages. Our languages are complex organs with many subdivisions such as mathematical language and technical jargon of various fields, which are outposts dotted around a complex, generalized "everyday" language.
 
-
-In my opinion, human ability to reason outruns our ability to understand our processes of reasoning on a second-order level. Reasoning is a capability of our minds. Our minds are very complex and our understanding of them is very rudimentary. Our processes of reasoning are the outcome of a process of biological and social evolution, consisting of the Darwinian evolution of our brains and the transmission and evolution of intellectual DNA forward through history.
-
-Our rules for reasoning are, in my opinion, essentially encoded in our languages. Our languages are complex organs with many subdivisions such as mathematical language and technical jargon of various fields, which are outposts dotted around a complex, generalized "everyday" language.
-
-In my opinion, the most important wisdom about reasoning is contained in the rules governing our everyday languages. Good argumentation is mostly a matter of using everyday language in a way which adheres rigorously to common sense best practices of clarity and thoroughness. In other words, deeply understanding common sense about how to use language when attempting to discern the truth is the most important aspect of the development of rationality. Common sense, in other words, is the heart of rationality.
+The most important wisdom about reasoning is contained in the rules governing our everyday languages. Good argumentation is mostly a matter of using everyday language in a way which adheres rigorously to common sense best practices of clarity and thoroughness. In other words, deeply understanding common sense about how to use language when attempting to discern the truth is the most important aspect of the development of rationality. Common sense, in other words, is the heart of rationality.
 
 Good reasoning is full of uniform and repeatable patterns. Some of these repeatable patterns can be systematized: for example, deductive logic, mathematics, and science all have a corpus of repeatable reasoning techniques of various degrees of formality. Understanding these patterns is important to the development of rationality.
 
+However, knowing all the techniques of rationality does not give one the practical, procedural knowledge of being rational. The heart of rationality is a groundedness in reality and a willingness to be swayed by reality created by a kind of emptiness and lack of preconception.
+
+    The Master leads
+    by emptying people's minds
+    and filling their cores,
+    by weakening their ambition
+    and toughening their resolve.
+    He helps people lose everything
+    they know, everything they desire,
+    and creates confusion
+    in those who think that they know.
+
+    Practice not-doing,
+    and everything will fall into place.
