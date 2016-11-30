@@ -66,7 +66,7 @@ Human ability to reason outruns our ability to understand our processes of reaso
 
 Our rules for reasoning are essentially encoded in our languages. Our languages are complex organs with many subdivisions such as mathematical language and technical jargon of various fields, which are outposts dotted around a complex, generalized "everyday" language.
 
-The most important wisdom about reasoning is contained in the rules governing our everyday languages. Good argumentation is mostly a matter of using everyday language in a way which adheres rigorously to common sense best practices of clarity and thoroughness. In other words, deeply understanding common sense about how to use language when attempting to discern the truth is the most important aspect of the development of rationality. Common sense, in other words, is the heart of rationality.
+The most important wisdom about reasoning is contained in the rules governing our everyday languages. Good argumentation is mostly a matter of using everyday language in a way which adheres rigorously to common sense best practices of clarity and thoroughness. In other words, deeply understanding common sense about how to use language when attempting to discern the truth is the most important aspect of the development of rationality. 
 
     The supreme good is like water,
     which nourishes all things without trying to.
