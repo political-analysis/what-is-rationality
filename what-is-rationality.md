@@ -42,7 +42,7 @@ Rationality is not a natural state of the human mind. It's a state which is achi
 
 
 
-To me, the heart of rationality is the tao of rationality. This is a way of being and moving in the world of ideas which is the essence of rationality. It is at once an inscrutable quality, a great mystery, and the accumulation of myriad little details and traditions gathered into the practice of reason over the life of humanity.
+To me, the heart of rationality is the tao of rationality. This is a way of being and moving in the world of ideas which is the essence of rationality. It is at once an inscrutable quality, and the accumulation of myriad little details and traditions gathered into the practice of reason over the life of humanity.
 
     The tao that can be told
     is not the eternal Tao
