@@ -2,7 +2,7 @@ Probably every adherent of rationality has a somewhat different idea of what rat
 
 # My background
 
-Here is some background on how I developed my conception of rationality. Since I admit my conception of rationality is only an opinion, I feel it's useful to explain why I think my opinion is worth the while. By describing in inspecific terms the life experiences that have led me to my conception of rationality, I hope to provide a resume of sorts.
+Here is some background on how I developed my conception of rationality. Since I admit my conception of rationality is only an opinion, I feel it's useful to explain why I think my opinion is worth the while, by explaining the experiences that led to it.
 
 This section is safely skippable; nothing afterwards depends on it.
 
