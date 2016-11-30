@@ -38,10 +38,6 @@ This blog series is not primarily about my conception of political rationality. 
 
 Rationality is not a natural state of the human mind. It's a state which is achieved through hard and determined effort towards the right kinds of goals. It's a state which is never perfectly achieved. One is never finished in the development of one's rationality. It's a life-long learning experience, a path not a destination.
 
-
-
-
-
 The heart of rationality is the tao of rationality. This is a way of being and moving in the world of ideas which is the essence of rationality. It is at once an inscrutable quality, and the accumulation of myriad little details and traditions gathered into the practice of reason over the life of humanity.
 
     The tao that can be told
@@ -87,4 +83,4 @@ However, knowing all the techniques of rationality does not give one the practic
     Practice not-doing,
     and everything will fall into place.
 
-Given the tao of rationality, all of the specific techniques of rationality can be rediscovered. The tao of rationality is likely to appear to you if you reflect on the specific techniques of rationality. Our grasp of the tao is the outcome of our accumulated experience of reasoning, and is essentially a historical, evolutionary phenomenon.
+Given the tao of rationality, all of the specific techniques of rationality can be rediscovered. The tao of rationality is a quality developed in the practice of rationality, employing the best techniques we understand. Our grasp of the tao is the outcome of our accumulated experience of reasoning, and is essentially a historical, evolutionary phenomenon.
