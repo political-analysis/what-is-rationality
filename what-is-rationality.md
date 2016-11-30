@@ -38,7 +38,7 @@ This blog series is not primarily about my conception of political rationality. 
 
 Rationality is not a natural state of the human mind. It's a state which is achieved through hard and determined effort towards the right kinds of goals. It's a state which is never perfectly achieved. One is never finished in the development of one's rationality. It's a life-long learning experience, a path not a destination.
 
-The heart of rationality is the Tao of rationality. The Tao of rationality is a mystery, a placeholder for our lack of ultimate comprehension of our own ability to reason.
+The heart of rationality is the Tao of rationality. The Tao of rationality is a mystery, a placeholder for our lack of comprehensive understanding of our own ability to reason, consequent of our minds' present inability to comprehend themselves.
 
 The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. I'll give you a passage, and then I'll tell you what it brings to mind for me.
 
