@@ -36,6 +36,8 @@ This blog series is not primarily about my conception of political rationality. 
 
 # The Tao of rationality
 
+XXX: Explain the view I'm refuting, ala Frege, Russell
+
 At the end of the day, rationality is a *praxis*. It is something that we do, rather than something we understand. There is a lot of academic theory involved in modern rationality. This theory is important. But, somebody who has a grasp of the academic theory relevant to rationality is not, thereby, rational. The heart of rationality is something we can't explain; our understanding of ourselves isn't advanced enough for us to figure it out.
 
 One good way of defining rationality is as the *praxis* involved in thinking in such a way as to be correct, and in making decisions in such a way as to be maximally assured of achieving our goals. In [Eliezer Yudkowsy's words](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/), rationality is systematized winning.
@@ -62,7 +64,7 @@ A more formal way of expressing this idea is that in first-order logic (or just 
 
 Applying the principle to the case of "ought," all observed facts are consistent with essentially any set of moral beliefs, because a purely factual statement is free of moral language. This is the is-ought problem, and it illustrates that no amount of scientific and technological development will provide a justificatory basis in scientific knowledge for our fundamental moral beliefs.
 
-The lesson is that moral beliefs are out of the scope of what science, mathematics, and logic can tell us (though all three practices, especially logic, are important in moral discussions). We cannot reason about morality relying solely on science, mathematics, and logic, as should be pretty obvious from a practical perspective. However, we can reason about morality, which illustrates that rationality takes in more than science, mathematics, and logic.
+The lesson is that moral beliefs are out of the scope of what science, mathematics, and logic can tell us (though all three practices, especially logic, are important in moral discussions). We cannot reason about morality relying solely on science, mathematics, and logic. However, we can reason about morality, which illustrates that rationality takes in more than science, mathematics, and logic.
 
 Legal reasoning is another good example. Doing law effectively, in my non-expert understanding, is essentially a matter of using language in clear and consistent ways, thinking through potential futures and accounting for them, and applying consistent principles to different cases. Legal reasoning is a subtle and informal style of reasoning which is nonetheless highly developed and overall well-suited to the problem it solves.
 
