@@ -36,9 +36,24 @@ This blog series is not primarily about my conception of political rationality. 
 
 # The Tao of rationality
 
+At the end of the day, rationality is a *praxis*. It is something that we do, rather than something we understand. There is a lot of academic theory involved in modern rationality. This theory is important. But, somebody who has a grasp of the academic theory relevant to rationality is not, thereby, rational. The heart of rationality is something we can't explain; our understanding of ourselves isn't advanced enough for us to figure it out.
+
+One good way of defining rationality is as the *praxis* involved in thinking in such a way as to be correct, and making decisions in such a way as to be maximally assured of achieving our goals. In [Eliezer Yudkowsy's words](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/), rationality is systematized winning.
+
+Like all philosophical theses, this conception can surely be picked at. It's a pretty good way of thinking about rationality, though. It gives us a key principle of rationality, which is that rationality is not about adhering to a fixed set of rules. A rational person does what works. Our conceptions of what works can be overturned, so rationality does not have any fixed principles.
+
+However, there are principles that have always worked, for which we can't conceive of any realistic scenarios where they wouldn't work within their established domain of applicability. These include the laws of logic, the laws of mathematics, and the scientific method.
+
+The term "law" should not necessarily be understood here in the sense of "law of nature." For example, are the laws of mathematics laws of nature? Or are they conventions? There's [an entire field of philosophy](http://plato.stanford.edu/entries/philosophy-mathematics/) whose central question is essentially that. However, we can certainly say that mathematics and logic as practiced by humans are linguistic practices whose rules have been written down by humans, which we use because they work.
+
+
+
+
+
+
 Rationality is not a natural state of the human mind. It's a state which is achieved through hard and determined effort towards the right kinds of goals. It's a state which is never perfectly achieved. One is never finished in the development of one's rationality. It's a life-long learning experience, a path not a destination.
 
-The heart of rationality is the Tao of rationality. The Tao of rationality is a mystery, a placeholder for our lack of comprehensive understanding of our own ability to reason, consequent of our minds' present inability to comprehend themselves.
+The heart of rationality I also call the Tao of rationality. The Tao of rationality is a mystery, a placeholder for our lack of comprehensive understanding of our own ability to reason, consequent of our minds' present inability to comprehend themselves.
 
 The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. I'll give you a passage, and then I'll tell you what it brings to mind for me.
 
@@ -112,4 +127,3 @@ The heart of rationality is a groundedness in reality and a willingness to be sw
     but non-being is what we use.
 
     [ch. 11]
-
