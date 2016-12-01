@@ -38,13 +38,33 @@ This blog series is not primarily about my conception of political rationality. 
 
 At the end of the day, rationality is a *praxis*. It is something that we do, rather than something we understand. There is a lot of academic theory involved in modern rationality. This theory is important. But, somebody who has a grasp of the academic theory relevant to rationality is not, thereby, rational. The heart of rationality is something we can't explain; our understanding of ourselves isn't advanced enough for us to figure it out.
 
-One good way of defining rationality is as the *praxis* involved in thinking in such a way as to be correct, and making decisions in such a way as to be maximally assured of achieving our goals. In [Eliezer Yudkowsy's words](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/), rationality is systematized winning.
+One good way of defining rationality is as the *praxis* involved in thinking in such a way as to be correct, and in making decisions in such a way as to be maximally assured of achieving our goals. In [Eliezer Yudkowsy's words](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/), rationality is systematized winning.
 
 Like all philosophical theses, this conception can surely be picked at. It's a pretty good way of thinking about rationality, though. It gives us a key principle of rationality, which is that rationality is not about adhering to a fixed set of rules. A rational person does what works. Our conceptions of what works can be overturned, so rationality does not have any fixed principles.
 
-However, there are principles that have always worked, for which we can't conceive of any realistic scenarios where they wouldn't work within their established domain of applicability. These include the laws of logic, the laws of mathematics, and the scientific method.
+However, there are principles that have always worked, for which we can't conceive of any realistic scenarios where they wouldn't work within their established domains of applicability. These include the laws of logic, the laws of mathematics, and the scientific method.
 
 The term "law" should not necessarily be understood here in the sense of "law of nature." For example, are the laws of mathematics laws of nature? Or are they conventions? There's [an entire field of philosophy](http://plato.stanford.edu/entries/philosophy-mathematics/) whose central question is essentially that. However, we can certainly say that mathematics and logic as practiced by humans are linguistic practices whose rules have been written down by humans, which we use because they work.
+
+Are the laws of logic, the laws of mathematics, and the scientific method applicable to everything? Certainly not. They cannot tell us anything about what is good or bad, moral or immoral. They do not presently allow us to understand each other; we need to rely on feelings and intuition to understand each other. They do not tell us how to lead a happy life, a meaningful life, or a spiritual life.
+
+Some people will argue that sufficiently advanced science and technology could allow us to understand each other and understand the secrets of happiness, meaning, and spiritual life through logic, math, and science. It may be true that sufficiently advanced understanding of neuroscience will shed light on all these topics.
+
+This is largely an irrelevant point, because we don't possess the requisite science and technology to understand things in this way, and such science and technology appears to be a long way off, barring a [technological singularity](https://en.wikipedia.org/wiki/Technological_singularity).
+
+It also risks missing the significance of the [is-ought problem](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) described by Hume. Intuitively, it seems clear that no set of purely descriptive, factual statements about the world logically entail any moral proposition, any statement of "ought."
+
+Let's try it. "Jimmy *is* in pain," therefore "we *ought* to have sympathy for Jimmy." This argument has a suppressed premise, namely, "we ought to have sympathy for people who are in pain," which in turn appears to rest on more basic assumptions like "pain is bad" and "we ought to sympathize with people experiencing bad things." How do we justify these assumptions on the basis of factual claims?
+
+We can also analyze the matter from a logical perspective. Suppose we have a set of premises P, and a word W. Suppose the word W never appears in P. Then it will be impossible to prove any statement using the word W, beyond logical tautologies and similar trivialities.
+
+A more formal way of expressing this idea is that in first-order logic (or just about any other formal logic you care to choose), if you have a signature S, a predicate P in S, and a theory T over S, if P does not appear in any of the axioms of T then given any model M of T, replacing the interpretation of the predicate P with any other interpretation will still give a you a model of T. XXX: Reference where we unpack these concepts.
+
+Applying the principle to the case of "ought," all observed facts are consistent with essentially any set of moral beliefs, because a purely factual statement is free of moral language. This is the is-ought problem, and it illustrates that no amount of scientific and technological development will provide a justificatory basis in scientific knowledge for our fundamental moral beliefs.
+
+The lesson is that moral beliefs are out of the scope of what science, mathematics, and logic can tell us (though all three practices, especially logic, are important in moral discussions). We cannot reason about morality relying solely on science, mathematics, and logic, as should be pretty obvious from a practical perspective. However, we can reason about morality, which illustrates that rationality takes in more than science, mathematics, and logic.
+
+Legal reasoning is another good example. Doing law effectively, in my non-expert understanding, is essentially a matter of using language in clear and consistent ways, thinking through potential futures and accounting for them, and applying consistent principles to different cases. Legal reasoning is a subtle and informal style of reasoning which is nonetheless highly developed and overall well-suited to the problem it solves.
 
 
 
