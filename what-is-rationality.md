@@ -19,9 +19,7 @@ Greek thinkers made fundamental advances in rationality.
 
 The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
-The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent in inspiration. Rationality, for reasons already explained. Liberalism is Greco-Roman in the sense that the Greeks and the earlier Romans were early liberals, in the sense that they lived in very free, open societies, and they were the first large-scale democracies.
-
-Greco-Roman thinking is a big part of our cultural, intellectual, and political DNA. The seeds of our modern Western conception of rationality come from Ancient Greece.
+The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent in inspiration. So we can see that Greco-Roman thinking is a big part of our cultural, intellectual, and political DNA. In particular, the seeds of our modern Western conception of rationality come from Ancient Greece.
 
 XXX: Research non-Western rationality
 
