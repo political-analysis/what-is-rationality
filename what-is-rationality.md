@@ -1,3 +1,5 @@
+What is rationality? "Rationality," being a nebulous, imprecise term, can mean many different things. However, our goal is not to explore everything the word could or should mean. Our goal is to find rationality. We assume that there are things practically worth having that fall under the term "rationality." My goal in asking the question is to initiate a search for those things.
+
 # History of rationality
 
 ## Ancient Greece
@@ -6,7 +8,7 @@ Ancient Greece is often seen as the cradle of modern rationality. Let's look at 
 
 Athens instituted the first democracy I'm aware of. In democratic Athens, every citizen could influence city policy by means of persuasion in the popular legislature. In this society, strong persuasive abilities had many practical benefits.
 
-The desire to learn persuasive skills was one major driver of demand for teachers, such as the sophists, who made a living providing private tutoring in philosophy and rhetoric, probably most often to the wealthy.
+The desire to learn persuasive skills was one major driver of demand for teachers, such as the sophists, who made a living providing private tutoring in philosophy and rhetoric, probably most often to the wealthy. We can therefore see how democracy in Greece fueled a flow of money to higher learning.
 
 Greek thinkers made fundamental advances in rationality.
 
@@ -17,7 +19,11 @@ Greek thinkers made fundamental advances in rationality.
 
 The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
-The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent inspiration. Rationality, for reasons already explained. Liberalism is Greco-Roman in the sense that the Greeks and the earlier Romans were early liberals, in the sense that they lived in very free, open societies, and they were the first large-scale democracies.
+The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent in inspiration. Rationality, for reasons already explained. Liberalism is Greco-Roman in the sense that the Greeks and the earlier Romans were early liberals, in the sense that they lived in very free, open societies, and they were the first large-scale democracies.
+
+Greco-Roman thinking is a big part of our cultural, intellectual, and political DNA. The seeds of our modern Western conception of rationality come from Ancient Greece.
+
+XXX: Research non-Western rationality
 
 ## XXX
 
