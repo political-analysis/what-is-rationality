@@ -10,10 +10,10 @@ The desire to learn persuasive skills was one major driver of demand for teacher
 
 Greek thinkers made fundamental advances in rationality.
 
- * Euclid studied geometry, providing our first example I'm aware of a systematic mathematical theory where all facts are proven from a set of axioms.
- * Aristotle formulated the theory of syllogistic reasoning. This is the first example I'm aware of of a formal system of logic, saying what inferences were logically valid for statements in a certain restricted class.
- * Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The Socratic dialogues are one good source of such arguments.
- * Greeks studied fundamental problems of epistemology. [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
+* Euclid studied geometry, providing our first example I'm aware of a systematic mathematical theory where all facts are proven from a set of axioms.
+* Aristotle formulated the theory of syllogistic reasoning. This is the first example I'm aware of of a formal system of logic, saying what inferences were logically valid for statements in a certain restricted class.
+* Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The Socratic dialogues are one good source of such arguments.
+* Greeks studied fundamental problems of epistemology. [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
 
 The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
