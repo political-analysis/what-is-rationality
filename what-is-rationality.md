@@ -8,15 +8,16 @@ Athens instituted the first democracy I'm aware of. In democratic Athens, every 
 
 The desire to learn persuasive skills was one major driver of demand for teachers, such as the sophists, who made a living providing private tutoring in philosophy and rhetoric, probably most often to the wealthy.
 
-Greek thinkers made fundamental advances in knowledge. Euclid proved many elementary facts of geometry in a systematic and rigorous mathematical theory. Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. (Examples later.)
+Greek thinkers made fundamental advances in rationality.
+
+ * Euclid studied geometry, providing our first example I'm aware of a systematic mathematical theory where all facts are proven from a set of axioms.
+ * Aristotle formulated the theory of syllogistic reasoning. This is the first example I'm aware of of a formal system of logic, saying what inferences were logically valid for statements in a certain restricted class.
+ * Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The Socratic dialogues are one good source of such arguments.
+ * Greeks studied fundamental problems of epistemology. [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
 
 The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
-The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent inspiration.
-
-Liberalism is Greco-Roman in the sense that the Greeks and the earlier Romans were early liberals, in the sense that they lived in very free, open societies, and they were the first large-scale democracies.
-
-Rationality is Greco-Roman in the sense that the Greeks made many fundamental advances in rationality, as mentioned earlier. XXX: Examples
+The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent inspiration. Rationality, for reasons already explained. Liberalism is Greco-Roman in the sense that the Greeks and the earlier Romans were early liberals, in the sense that they lived in very free, open societies, and they were the first large-scale democracies.
 
 ## XXX
 
