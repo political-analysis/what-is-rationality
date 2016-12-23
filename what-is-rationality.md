@@ -2,9 +2,9 @@
 
 ## Ancient Greece
 
-Ancient Greece is often seen as the cradle of modern rationality.
+Ancient Greece is often seen as the cradle of modern rationality. Let's look at how it got that reputation.
 
-Athens instituted the first democracy in my awareness. In democratic Athens, every citizen could influence city policy by means of persuasion in the popular legislature. In this society, strong persuasive abilities had many practical benefits.
+Athens instituted the first democracy I'm aware of. In democratic Athens, every citizen could influence city policy by means of persuasion in the popular legislature. In this society, strong persuasive abilities had many practical benefits.
 
 The desire to learn persuasive skills was one major driver of demand for teachers, such as the sophists, who made a living providing private tutoring in philosophy and rhetoric, probably most often to the wealthy.
 
