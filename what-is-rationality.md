@@ -1,6 +1,28 @@
-Probably every adherent of rationality has a somewhat different idea of what rationality is. In this blog series I aim to present my conception of rationality. It is not authoritative; it is an opinion.
+# History of rationality
 
-# The Tao of rationality
+## Ancient Greece
+
+Ancient Greece is often seen as the cradle of modern rationality.
+
+Athens instituted the first democracy in my awareness. In democratic Athens, every citizen could influence city policy by means of persuasion in the popular legislature. In this society, strong persuasive abilities had many practical benefits.
+
+The desire to learn persuasive skills was one major driver of demand for teachers, such as the sophists, who made a living providing private tutoring in philosophy and rhetoric, probably most often to the wealthy.
+
+Greek thinkers made fundamental advances in knowledge. Euclid proved many elementary facts of geometry in a systematic and rigorous mathematical theory. Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. (Examples later.)
+
+The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
+
+The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent inspiration.
+
+Liberalism is Greco-Roman in the sense that the Greeks and the earlier Romans were early liberals, in the sense that they lived in very free, open societies, and they were the first large-scale democracies.
+
+Rationality is Greco-Roman in the sense that the Greeks made many fundamental advances in rationality, as mentioned earlier. XXX: Examples
+
+## XXX
+
+An influential perspective on rationality emerged from the formal study of reasoning pioneered by the likes of Gottlob Frege and Bertrand Russell. Frege and Russell appreciated the importance of the connection between reasoning and language, and their work further demonstrated its importance. By providing a rigorous, mathematical analysis of the essential structure of declarative, factual language, they were able to formulate rigorous, mathematical rules of reasoning which can be used to understand much reasoning in all domains. These rules have particular utility in understanding mathematical reasoning.
+
+The works of Ludwig Wittgenstein emerged, in my understanding, somewhat as a reaction to the Frege-Russell perspective on reasoning. Wittgenstein agreed on the importance of the connection between language and reasoning. However, he ultimately provided a radically different understanding of language than the one suggested by Frege and Russell's formal analysis.
 
 XXX: Explain the view I'm refuting, ala Frege, Russell
 
