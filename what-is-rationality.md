@@ -14,7 +14,7 @@ We also employ rationality in the course of determining our beliefs. A belief is
 
 In our analysis, we will take a different approach, by focusing on communication and decision making as the primary loci of concern of rationality. Generally conclusions about rules of rational argumentation will trivially yield analogous conclusions about rules of rational belief-determination.
 
-There are two reasons for examining rationality primary through the lenses of communication and decision making. The first is that these are the primary observable manifestations of rationality, and observable things are easier to discuss. The second is that they are where the rubber hits the pavement in practical situations involving rationality, and therefore the most useful loci to analyze from a practical perspective.
+There are two reasons for examining rationality primarily through the lenses of communication and decision making. The first is that these are the primary observable manifestations of rationality, and observable things are easier to discuss. The second is that they are where the rubber hits the pavement in practical situations involving rationality, and therefore the most useful loci to analyze from a practical perspective.
 
 Now let us examine the notion of the "laws of rationality." On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception. This reading will be substantiated later in the "history of rationality" section.
 
