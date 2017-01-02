@@ -42,34 +42,7 @@ In what sense are the laws of rationality binding? In many different senses, in 
  * In many professional contexts, such as when performing a technical job such as software development or security analysis, the laws of rationality are binding as a matter of professional ethics, especially in mission-critical scenarios.
  * In serious contexts where you need to solve a problem, rationality is usually applicable. In these cases, the laws of rationality are binding in the sense that following them maximizes your likelihood of success. (If following a set of principles of rationality reduced your likelihood of success, then those principles would be a flawed way of thinking about rationality. Observe that this is not a [no true Scotsman fallacy](https://en.wikipedia.org/wiki/No_true_Scotsman), because we are not changing the definition of rationality in an *ad hoc* way to deal with counterexamples. Rather, the principle that methods that systematically cause you to fail aren't rational is part of our common sense understanding of rationality. See [Eliezer Yudkowsy, "Rationality is Systematized Winning."](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/))
 
-
-
-
-
-
-
-
-
-
-
-
-With that in mind, the theory should be built on the analysis of many particular cases of reasoning across all fields, with the central focus being placed upon common, everyday cases. The central cases to be addressed by the theory are cases of reasoning problems that come up in practical affairs of living, in the workplace, in interpersonal relationships, in politics, and in other everyday aspects of life. Reasoning in academic contexts such as science, math, and the humanities is also of importance.
-
-Let us now try to articulate the goal further. Rationality has to do with two areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of the truth of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
-
-We also employ rationality in the course of determining our beliefs. A belief is a type of psychological characteristic of a person. Many analyses of rationality place great focus on beliefs. The trouble with this is that it gets one into the muddy area of psychology.
-
-In our analysis, we will take a different approach, by focusing on communication and decision making as the primary loci of concern of rationality. Generally conclusions about rules of rational argumentation will trivially yield analogous conclusions about rules of rational belief-determination.
-
-There are two reasons for examining rationality primary through the lenses of communication and decision making. The first is that these are the primary observable manifestations of rationality, and observable things are easier to discuss. The second is that they are where the rubber hits the pavement in practical situations involving rationality, and therefore the most useful loci to analyze from a practical perspective.
-
-We will think of rationality primarily as a set of laws governing communication and decision making. They are not laws in the sense of physical laws, because they are broken all the time by people. They aren't even laws in the sense of moral laws, because sometimes it's appropriate to break the laws of rationality, for example in making a joke which takes the form of a bad argument.
-
-The laws of rationality are wholly non-binding laws that we should choose to follow in practical or serious matters because the long experience of humanity has shown that obeying these laws will help us avoid falsehood, steer towards the truth, persuade others, and make decisions which turn out well.
-
-There is no definitive authority on the laws of rationality. Studies of the laws of rationality have been attempted throughout the history of philosophy, but so far they have always fallen short of comprehensive. I expect that my attempt will fall short of comprehensive as well.
-
-How does one study the laws of rationality? To answer this question, we should look at the study of other forms of law. It will be most productive to look at the study of forms of law which have no centralized authority, since the laws of rationality are of this character. These include international law, common law, and moral law.
+How can we the laws of rationality further? To answer this question, we should look at the study of other forms of law. It will be most productive to look at the study of forms of law which have no centralized authority, since the laws of rationality are of this character. These include international law, common law, and moral law.
 
 The studies of all of these three forms of law have much in common. In each field, principles are established by inductive generalization from specific cases. By appealing to our intuitions of what's fair, what's just, what's good, and so forth, we can establish judgments about specific cases. Some specific cases appear relatively clear-cut to us in that our intuitions tend to align strongly on these cases.
 
