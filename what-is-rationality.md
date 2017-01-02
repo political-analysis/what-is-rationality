@@ -1,4 +1,95 @@
-What is rationality? "Rationality," being a nebulous, imprecise term, can mean many different things. However, our goal is not to explore everything the word could or should mean. Our goal is to find rationality. We assume that there are things practically worth having that fall under the term "rationality." My goal in asking the question is to initiate a search for those things.
+What is rationality? "Rationality," being a nebulous, imprecise term, can mean many different things. However, our goal here is not to explore everything the word could or should mean. Our goal is develop a usable, practical theory of rationality.
+
+It is not productive to try to answer question "what is rationality?" by coming up with a dictionary definition of rationality, a sentence of the form "rationality is..." Rationality is too complex a concept to explain with a dictionary definition.
+
+Here is a first pass attempt at explaining rationality in practical terms. Rationality is a set of practices people employ in solving problems. Rationality is involved in the processes we use to organize ourselves into complex societies, develop technologies which improve our standard of living, cure diseases, discover the truth, and solve resource distribution problems (through systems such as capitalist economies), among many other things. 
+
+Given the immense practical importance of rationality, we don't want to approach the understanding of rationality as a purely theoretical problem. We want to approach it as a practical problem, so that our solution will be as useful as possible to as many people as possible. Our goal is not to develop the most rigorous theory possible, but to develop the most usable, and yet correct theory possible.
+
+There are many perspectives one can take on rationality, but I will start with one: rationality is a form of technology. Rather than being physical, inanimate technology, rationality is mental/cultural technology. It's a complex of memes which we use as tools in solving problems.
+
+Rationality has to do with two areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
+
+We also employ rationality in the course of determining our beliefs. A belief is a type of psychological characteristic of a person. Many analyses of rationality place great focus on beliefs. The trouble with this is that it gets one into the muddy area of psychology.
+
+In our analysis, we will take a different approach, by focusing on communication and decision making as the primary loci of concern of rationality. Generally conclusions about rules of rational argumentation will trivially yield analogous conclusions about rules of rational belief-determination.
+
+There are two reasons for examining rationality primary through the lenses of communication and decision making. The first is that these are the primary observable manifestations of rationality, and observable things are easier to discuss. The second is that they are where the rubber hits the pavement in practical situations involving rationality, and therefore the most useful loci to analyze from a practical perspective.
+
+Now let us examine the notion of the "laws of rationality." On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception. This reading will be substantiated later in the "history of rationality" section.
+
+What are the laws of rationality? First of all, they are laws. What are laws? As with most words, we will take a descriptivist perspective on the word "law." For us, the things that are laws will be the things which are called laws in common usage. The fact that common usage has some inconsistencies regarding what constitutes a law is not an obstacle to sufficiently clear communication for us, and when it is we will clarify.
+
+The main areas of law are common law, international law, moral law, the laws of rationality, the laws of physics and other areas of science, and the systems of laws of every government in the present and the past. Generally speaking, each of these areas of law has broadly agreed upon principles, institutions dedicated to their study and practice, textual sources of various kinds and degrees of authority, and specialized vocabulary.
+
+There are also various other laws referenced in common usage, such as [Duverger's](https://en.wikipedia.org/wiki/Duverger's_law) [law](https://www.youtube.com/watch?v=s7tWHJfhiyo), [Godwin's law](https://en.wikipedia.org/wiki/Godwin's_law), [the law of diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns), and [Murphy's law](https://en.wikipedia.org/wiki/Murphy's_law). These laws don't obviously fall into any of the aforementioned categories, but they are still laws for us on account of common usage.
+
+What do all the laws we can think of have in common, and what don't they have in common? Not all laws always hold true (e.g. Murphy's law). Not all laws carry a penalty for their violation (e.g. Godwin's law). Some laws are created by humans; others (e.g. the laws of physics) are not. Some areas of law have centralized authorities (e.g. the laws of governments) that decide the law; others (e.g. the laws of morality) do not.
+
+All laws bind us and/or the world, in some sense and at least in some cases. The sense in which laws are binding varies.
+
+ * The laws of physics are binding in the sense that physical theories generally postulate laws that always hold within their domain of applicability, so that any counterexamples would falsify the theory.
+ * Sociological laws like Duverger's law and Godwin's law are expected to have some counterexamples, or perhaps many counterexamples as in the case of Godwin's law, and counterexamples are not necessarily considered to undermine the whole law.
+ * The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense. (XXX: source?)
+ * International law is binding on states in a moral sense, and it is also binding in the sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
+
+I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which we will accept.
+
+In what sense are the laws of rationality binding? In many different senses, in many different contexts:
+
+ * In debates, the laws of rationality are binding as a matter of social norms. The laws of rationality are broken on a regular basis in debates, probably in most debates. However, we still agree that in some sense those who break them are not debating correctly.
+ * In academic contexts, the laws of rationality are binding as a matter of professional standards. In the context of academic publishing the laws of rationality are enforceable by the peer review process.
+ * In many professional contexts, such as when performing a technical job such as software development or security analysis, the laws of rationality are binding as a matter of professional ethics, especially in mission-critical scenarios.
+ * In serious contexts where you need to solve a problem, rationality is usually applicable. In these cases, the laws of rationality are binding in the sense that following them maximizes your likelihood of success. (If following a set of principles of rationality reduced your likelihood of success, then those principles would be a flawed way of thinking about rationality.)
+
+
+
+
+
+
+
+
+
+
+
+
+With that in mind, the theory should be built on the analysis of many particular cases of reasoning across all fields, with the central focus being placed upon common, everyday cases. The central cases to be addressed by the theory are cases of reasoning problems that come up in practical affairs of living, in the workplace, in interpersonal relationships, in politics, and in other everyday aspects of life. Reasoning in academic contexts such as science, math, and the humanities is also of importance.
+
+Let us now try to articulate the goal further. Rationality has to do with two areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of the truth of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
+
+We also employ rationality in the course of determining our beliefs. A belief is a type of psychological characteristic of a person. Many analyses of rationality place great focus on beliefs. The trouble with this is that it gets one into the muddy area of psychology.
+
+In our analysis, we will take a different approach, by focusing on communication and decision making as the primary loci of concern of rationality. Generally conclusions about rules of rational argumentation will trivially yield analogous conclusions about rules of rational belief-determination.
+
+There are two reasons for examining rationality primary through the lenses of communication and decision making. The first is that these are the primary observable manifestations of rationality, and observable things are easier to discuss. The second is that they are where the rubber hits the pavement in practical situations involving rationality, and therefore the most useful loci to analyze from a practical perspective.
+
+We will think of rationality primarily as a set of laws governing communication and decision making. They are not laws in the sense of physical laws, because they are broken all the time by people. They aren't even laws in the sense of moral laws, because sometimes it's appropriate to break the laws of rationality, for example in making a joke which takes the form of a bad argument.
+
+The laws of rationality are wholly non-binding laws that we should choose to follow in practical or serious matters because the long experience of humanity has shown that obeying these laws will help us avoid falsehood, steer towards the truth, persuade others, and make decisions which turn out well.
+
+There is no definitive authority on the laws of rationality. Studies of the laws of rationality have been attempted throughout the history of philosophy, but so far they have always fallen short of comprehensive. I expect that my attempt will fall short of comprehensive as well.
+
+How does one study the laws of rationality? To answer this question, we should look at the study of other forms of law. It will be most productive to look at the study of forms of law which have no centralized authority, since the laws of rationality are of this character. These include international law, common law, and moral law.
+
+The studies of all of these three forms of law have much in common. In each field, principles are established by inductive generalization from specific cases. By appealing to our intuitions of what's fair, what's just, what's good, and so forth, we can establish judgments about specific cases. Some specific cases appear relatively clear-cut to us in that our intuitions tend to align strongly on these cases.
+
+For example. Thor is 32-year-old male. Baba is a 3-year-old male. Thor kills Baba with a knife for no reason. Our intuitions align strongly on this case: we agree that Thor's action is morally wrong. Examining similar cases, most would agree to the generalization, "killing children is wrong."
+
+This shows how clear-cut cases form the bedrock for inductive generalizations which we then apply uniformly across cases. When we encounter specific cases where the generalizations lead to conclusions that do not align with our reasoned or intuitive conclusions about those specific cases, we establish exceptions and our understanding of laws evolves.
+
+For example, the Spartans culled male babies who appeared unfit in order to maintain the quality of their male population. They had a theory about human breeding which they put into practice by culling children. Having discovered a good reason (in their minds) to kill children, the Spartans would revise the principle "killing children is wrong" (if they had previously accepted this principle, which is likely) to exclude the purpose of culling unfit male babies.
+
+This is the central dynamic in the study of areas of law with decentralized authority: inductive generalization from our intuitions on specific cases, and revision of the law when our intuitive or reasond judgments are significantly out of alignment with the conclusion of a generalization on one or more specific cases.
+
+It is probably fair to say that in any of these areas of law, moral, common, and international, there is no such thing as a perfectly unbiased source on the law. Different writers' understandings of the law will probably never be in perfect alignment. However, this is only an issue in practice when their understandings lead to different conclusions on different cases. When different writers may think about things differently but still draw the same conclusions on most concrete cases, one has an area where the law is relatively clear and agreed upon. Of our three areas of law, this probably most true of common law, and least true of moral law, with international law lying somewhere in between.
+
+We are concerned here with a fourth area of law: the laws of rationality. The laws of rationality are relatively clear and agreed upon, as applied to most cases. People often disagree in specific cases about what the laws of rationality say about how to evaluate an argument, but in my experience clear-eyed discussion of the issue usually resolves the disagreement. The laws of rationality alone do not tell us what decisions we should make, and so disagreements about what decisions we should make can sometimes be attributed to disagreements about how the laws of rationality apply, but most often other considerations take priority.
+
+My purpose here is to provide my understanding of the laws of rationality. I don't claim to be innovating anything. I claim to be describing accepted practice and principles as I see them in the world. Of course people don't always adhere to the laws of rationality I describe here, and they don't always agree with these principles, but in my experience clear-eyed discussion brings people around to acceptance of these principles. These principles are also generally agreed upon by other authorities on rationality, or at minimum there is reason to think other authorities would agree with them. Like all accounts of the laws of rationality, this one is biased.
+
+The laws of rationality are inherently flexible. Debates about how the laws of rationality apply in particular cases, and debates about 
+
+
 
 # History of rationality
 
@@ -142,3 +233,22 @@ The heart of rationality is a groundedness in reality and a willingness to be sw
     but non-being is what we use.
 
     [ch. 11]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# A neo-Socratic conception of rationality
+
