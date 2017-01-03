@@ -106,13 +106,13 @@ Greek thinkers made fundamental advances in rationality.
 
 ### Interstitial period
 
-The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing and building upon Greco-Roman knowledge. 
+The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing and building upon Greco-Roman knowledge.
+
+Some innovations in logic occurred in this period. Medieval logicians developed the theory of the syllogism further. They also developed the study of [logical fallacies](https://en.wikipedia.org/wiki/List_of_fallacies), which remains important basic reasoning knowledge today.
 
 ### The Enlightenment
 
-The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
-The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent in inspiration. So we can see that Greco-Roman thinking is a big part of our cultural, intellectual, and political DNA. In particular, the seeds of our modern Western conception of rationality come from Ancient Greece.
 
 ### Analytic philosophy
 
