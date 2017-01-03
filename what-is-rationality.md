@@ -222,12 +222,4 @@ The heart of rationality is a groundedness in reality and a willingness to be sw
 
 
 
-
-
-
-
-
-
-
-# A neo-Socratic conception of rationality
-
+# Language
