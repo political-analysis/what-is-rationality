@@ -100,13 +100,13 @@ The desire to learn persuasive skills was one major driver of demand for teacher
 Greek thinkers made fundamental advances in rationality.
 
 * [Euclid](https://en.wikipedia.org/wiki/Euclid) studied geometry, providing [the first example](https://en.wikipedia.org/wiki/Euclid's_Elements) in my awareness of a systematic mathematical theory where all facts are proven from a set of axioms.
-* [Aristotle](https://en.wikipedia.org/wiki/Aristotle) formulated the [theory of syllogistic reasoning](https://en.wikipedia.org/wiki/Syllogism). This is the first example in my awareness of a formal system of logic, saying what inferences were logically valid for statements in a certain restricted class.
+* [Aristotle](https://en.wikipedia.org/wiki/Aristotle) formulated the [theory of syllogistic reasoning](https://en.wikipedia.org/wiki/Syllogism). This is the first example in my awareness of a [formal system of logic](https://en.wikipedia.org/wiki/Logic), saying what inferences were logically valid for statements in a certain restricted class.
 * Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The [Socratic dialogues](https://en.wikipedia.org/wiki/Socratic_dialogue) are one good source of such arguments.
 * Greeks studied fundamental problems of [epistemology](https://en.wikipedia.org/wiki/Epistemology). [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
 
 ### Interstitial period
 
-The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. 
+The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing and building upon Greco-Roman knowledge. 
 
 ### The Enlightenment
 
