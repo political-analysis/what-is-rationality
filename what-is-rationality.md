@@ -106,7 +106,7 @@ Greek thinkers made fundamental advances in rationality.
 
 ### Interstitial period
 
-The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing and building upon Greco-Roman knowledge. This was a period of slow progress in our understanding of rationality.
+The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing and building upon Greco-Roman knowledge. This was a period of slow progress in Western Europe's understanding of rationality.
 
 Some innovations in logic occurred in this period. Medieval logicians developed the theory of the syllogism further. They also developed the study of [logical fallacies](https://en.wikipedia.org/wiki/List_of_fallacies), which remains important basic reasoning knowledge today.
 
