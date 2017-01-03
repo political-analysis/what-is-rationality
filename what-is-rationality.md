@@ -87,7 +87,9 @@ The first step in interpreting the laws of rationality should be to study the hi
 
 Western rationality almost wholly dominates the English language discussion of rationality. The philosophical study of rationality in the West can be traced back to its origins in Ancient Greece. The Ancient Greek philosophers' ideas are still the wellspring for our modern idea of rationality. Western ideas of rationality have been exported throughout the world, and are influential worldwide. However, we will also look at influential non-Western ideas of rationality.
 
-## Ancient Greece
+## Western rationality
+
+### Ancient Greece
 
 [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) is often seen as the cradle of modern rationality. Let's look at how it got that reputation.
 
@@ -102,11 +104,13 @@ Greek thinkers made fundamental advances in rationality.
 * Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The [Socratic dialogues](https://en.wikipedia.org/wiki/Socratic_dialogue) are one good source of such arguments.
 * Greeks studied fundamental problems of [epistemology](https://en.wikipedia.org/wiki/Epistemology). [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
 
-## Roman empire
+### Roman empire
 
 The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
-## The Enlightenment
+### The Dark Ages
+
+### The Enlightenment
 
 The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent in inspiration. So we can see that Greco-Roman thinking is a big part of our cultural, intellectual, and political DNA. In particular, the seeds of our modern Western conception of rationality come from Ancient Greece.
 
