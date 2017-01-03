@@ -70,9 +70,22 @@ Our goal is interpretive, rather than creative. We don't want to define new laws
 
 The first step in interpreting the laws of rationality should be to study the history of the laws of rationality. The history of a field of law is often the best place to start to study that field, in order to obtain a deep understanding of it, because the full picture of the rationale for the present system can generally only be seen in the light of history. Therefore, let's dive into a history of the laws of rationality.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # History of the laws of rationality
 
-Western rationality almost wholly dominates the English language discussion of rationality. The philosophical study of rationality in the West can be traced back to its origins in Ancient Greece. The Ancient Greek philosophers' ideas are still the wellspring for our modern idea of rationality. Western ideas of rationality have been exported throughout the world, and are influential worldwide. However, we will also look at influential non-Western studies of rationality.
+Western rationality almost wholly dominates the English language discussion of rationality. The philosophical study of rationality in the West can be traced back to its origins in Ancient Greece. The Ancient Greek philosophers' ideas are still the wellspring for our modern idea of rationality. Western ideas of rationality have been exported throughout the world, and are influential worldwide. However, we will also look at influential non-Western ideas of rationality.
 
 ## Ancient Greece
 
