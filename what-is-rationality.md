@@ -33,7 +33,7 @@ What do all the laws we can think of have in common, and what don't they have in
 All laws bind us and/or the world, in some sense and at least in some cases. The sense in which laws are binding varies.
 
  * The laws of physics are binding in the sense that physical theories generally postulate laws that always hold within their domain of applicability, so that any counterexamples would falsify the theory.
- * Sociological laws like Duverger's law and Godwin's law are expected to have some counterexamples, or perhaps many counterexamples as in the case of Godwin's law, and counterexamples are not necessarily considered to undermine the whole law.
+ * Sociological laws like Duverger's law and Godwin's law are expected to have some counterexamples, and counterexamples are not necessarily considered to undermine the whole law. They are binding in the sense that they represent strong statistical trends that one tends to observe over time.
  * The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense. (XXX: source?)
  * International law is binding on states in a moral sense, and it is also binding in the sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
 
@@ -64,7 +64,7 @@ We, of course, are concerned with the laws of rationality. The laws of rationali
 
 My purpose here is to provide my understanding of the laws of rationality. I don't claim to be innovating anything. I claim to be describing accepted practice and principles as I see them in the world. Of course people don't always adhere to the laws of rationality I describe here, and they don't always agree with these principles, but in my experience clear-eyed discussion brings people around to acceptance of these principles. These principles are also generally agreed upon by other authorities on rationality, or at minimum there is reason to think other authorities would agree with them. Like all accounts of the laws of rationality, this one is biased.
 
-The laws of rationality are inherently flexible. Debates about how the laws of rationality apply in particular cases, and debates about what the laws of rationality are, form part of many complex debates about all kinds of issues. Our conception of rationality evolves in response to our experience with questions that arise. However, there is also a lot of ground that is basically established as consensus. We will cover much of this ground here. We will also (and already have) cover(ed) ground which is not a consensus.
+The laws of rationality are inherently flexible. Debates about how the laws of rationality apply in particular cases, and debates about what the laws of rationality are, play a part in many complex debates about all kinds of issues. Our conception of rationality evolves in response to our experience with questions that arise. However, there is also a lot of ground that is basically established as consensus. We will cover much of this ground here. We will also (and already have) cover(ed) ground which is not a consensus.
 
 Our goal is interpretive, rather than creative. We don't want to define new laws of rationality. Rather, we want to interpret what the laws of rationality are, by following what are in essence standard legal methods of examining and synthesizing historical precedents. Essentially, we want to find an "extrapolated consensus," i.e. what everybody would think if they had fully thought things through given the basic principles that seem to be accepted in consensus understanding. Any such extrapolated consensus is only going to be a guess. It's always possible, for example, that sharing an idea produces objections which had never before been raised against it. It's very rare for somebody to have the final word on something in philosophy.
 
@@ -104,13 +104,13 @@ Greek thinkers made fundamental advances in rationality.
 * Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The [Socratic dialogues](https://en.wikipedia.org/wiki/Socratic_dialogue) are one good source of such arguments.
 * Greeks studied fundamental problems of [epistemology](https://en.wikipedia.org/wiki/Epistemology). [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
 
-### Roman empire
+### Interstitial period
 
-The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
-
-### The Dark Ages
+The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. 
 
 ### The Enlightenment
+
+The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
 The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent in inspiration. So we can see that Greco-Roman thinking is a big part of our cultural, intellectual, and political DNA. In particular, the seeds of our modern Western conception of rationality come from Ancient Greece.
 
