@@ -16,6 +16,10 @@ In our analysis, we will take a different approach, by focusing on communication
 
 There are two reasons for examining rationality primarily through the lenses of communication and decision making. The first is that these are the primary observable manifestations of rationality, and observable things are easier to discuss. The second is that they are where the rubber hits the pavement in practical situations involving rationality, and therefore the most useful loci to analyze from a practical perspective.
 
+In practice most rationality-related issues can be discussed in the context of language, and specifically in the context of debate. Studying the rules of debate is studying the majority of what there is to study about rationality. Conclusions about the rules of debate transfer over to other contexts, such as decision making, fairly straightforwardly. However, there are certainly issues of rationality specifically related to non-debate forms of communication and to decision making.
+
+Because of the foregoing, understanding language is quite crucial to understanding rationality, and language will be one of the early things we discuss in this manuscript.
+
 Now let us examine the notion of the "laws of rationality." On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception. This reading will be substantiated later in the "history of rationality" section.
 
 What are the laws of rationality? First of all, they are laws. What are laws? As with most words, we will take a descriptivist perspective on the word "law." For us, the things that are laws will be the things which are called laws in common usage. The fact that common usage has some inconsistencies regarding what constitutes a law is not an obstacle to sufficiently clear communication for us, and when it is we will clarify.
