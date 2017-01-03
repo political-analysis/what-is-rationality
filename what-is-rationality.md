@@ -114,7 +114,7 @@ The Romans assimilated and built upon Greek thinking. They exported it through t
 
 The ideals of the Enlightenment include liberalism and rationality. Both ideas are highly Greco-Roman, in content and to some extent in inspiration. So we can see that Greco-Roman thinking is a big part of our cultural, intellectual, and political DNA. In particular, the seeds of our modern Western conception of rationality come from Ancient Greece.
 
-## Analytic philosophy
+### Analytic philosophy
 
 An influential perspective on rationality emerged from the formal study of reasoning pioneered by the likes of Gottlob Frege and Bertrand Russell. Frege and Russell appreciated the importance of the connection between reasoning and language, and their work further demonstrated its importance. By providing a rigorous, mathematical analysis of the essential structure of declarative, factual language, they were able to formulate rigorous, mathematical rules of reasoning which can be used to understand much reasoning in all domains. These rules have particular utility in understanding mathematical reasoning.
 
