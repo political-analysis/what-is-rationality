@@ -62,6 +62,8 @@ My purpose here is to provide my understanding of the laws of rationality. I don
 
 The laws of rationality are inherently flexible. Debates about how the laws of rationality apply in particular cases, and debates about what the laws of rationality are, form part of many complex debates about all kinds of issues. Our conception of rationality evolves in response to our experience with questions that arise. However, there is also a lot of ground that is basically established as consensus. We will cover much of this ground here. We will also (and already have) cover(ed) ground which is not a consensus.
 
+Our goal is interpretive, rather than creative. We don't want to define new laws of rationality. Rather, we want to interpret what the laws of rationality are, by following what are in essence standard legal methods of examining and synthesizing historical precedents. Essentially, we want to find an "extrapolated consensus," i.e. what everybody would think if they had fully thought things through given the basic principles that seem to be accepted in consensus understanding. Any such extrapolated consensus is only going to be a guess. It's always possible, for example, that sharing an idea produces objections which had never before been raised against it. It's very rare for somebody to have the final word on something in philosophy.
+
 
 
 
