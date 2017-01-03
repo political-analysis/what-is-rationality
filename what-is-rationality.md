@@ -74,18 +74,18 @@ The first step in interpreting the laws of rationality should be to study the hi
 
 ## Ancient Greece
 
-Ancient Greece is often seen as the cradle of modern rationality. Let's look at how it got that reputation.
+[Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) is often seen as the cradle of modern rationality. Let's look at how it got that reputation.
 
-Athens instituted the first democracy I'm aware of. In democratic Athens, every citizen could influence city policy by means of persuasion in the popular legislature. In this society, strong persuasive abilities had many practical benefits.
+The city of [Athens](https://en.wikipedia.org/wiki/Athens) instituted the first democracy I'm aware of. In democratic Athens, every citizen could influence city policy by means of persuasion in the popular legislature. In this society, strong persuasive abilities had many practical benefits.
 
 The desire to learn persuasive skills was one major driver of demand for teachers, such as the sophists, who made a living providing private tutoring in philosophy and rhetoric, probably most often to the wealthy. We can therefore see how democracy in Greece fueled a flow of money to higher learning.
 
 Greek thinkers made fundamental advances in rationality.
 
-* Euclid studied geometry, providing the first example in my awareness of a systematic mathematical theory where all facts are proven from a set of axioms.
-* Aristotle formulated the theory of syllogistic reasoning. This is the first example in my awareness of a formal system of logic, saying what inferences were logically valid for statements in a certain restricted class.
-* Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The Socratic dialogues are one good source of such arguments.
-* Greeks studied fundamental problems of epistemology. [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
+* [Euclid](https://en.wikipedia.org/wiki/Euclid) studied geometry, providing [the first example](https://en.wikipedia.org/wiki/Euclid's_Elements) in my awareness of a systematic mathematical theory where all facts are proven from a set of axioms.
+* [Aristotle](https://en.wikipedia.org/wiki/Aristotle) formulated the [theory of syllogistic reasoning](https://en.wikipedia.org/wiki/Syllogism). This is the first example in my awareness of a formal system of logic, saying what inferences were logically valid for statements in a certain restricted class.
+* Greek philosophers constructed sophisticated philosophical arguments, many of which are still quality arguments by the standards of modern philosophy. The [Socratic dialogues](https://en.wikipedia.org/wiki/Socratic_dialogue) are one good source of such arguments.
+* Greeks studied fundamental problems of [epistemology](https://en.wikipedia.org/wiki/Epistemology). [Skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) of various forms was popular in the philosophical community. One form of skepticism is the belief that knowledge is not possible for humans. This view is still hard to refute (which is not to imply that it's true).
 
 The Romans assimilated and built upon Greek thinking. They exported it through their empire to much of Afro-Eurasia. When the Roman Empire fell, Christian monasteries in Western Europe preserved Greco-Roman knowledge through the Dark Ages. Much Medieval learning in Western Europe was concerned with absorbing Greco-Roman knowledge. The Age of Enlightenment was to a great extent driven by Greco-Roman ideas and values, particularly [liberalism](https://en.wikipedia.org/wiki/Liberalism). Eventually, Western European colonialism and internationalism would export Enlightenment ideas and values to every time zone. This illustrates the extent of the influence of Greco-Roman thought.
 
